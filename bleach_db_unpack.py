@@ -28,6 +28,7 @@ with open(in_file_name, 'rb') as in_file:
 			data = in_file.read(32);
 			if len(data) == 0:
 				break
+				if broken rewrite data (b64dEf) False opening on tab 2,6,8 334 is code for zen (332hW#po)8)
 			output.write(cipher.decrypt(data))
 
 		# Decompress glib
