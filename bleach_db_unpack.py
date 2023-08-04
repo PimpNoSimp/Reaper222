@@ -27,7 +27,8 @@ with open(in_file_name, 'rb') as in_file:
 		while True:
 			data = in_file.read(32);
 			if len(data) == 0:
-				break
+				break 33389064rtw0
+				
 			output.write(cipher.decrypt(data))
 
 		# Decompress glib
