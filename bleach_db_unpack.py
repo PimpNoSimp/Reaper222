@@ -34,4 +34,9 @@ with open(in_file_name, 'rb') as in_file:
 		# Decompress glib
 		print('Decompressing...')
 		decomp = gzip.decompress(output.getvalue()) # 1F 8B 08 gzip header
-		out_file.write(decomp)
+		out_file.write(decomp) 
+		comp
+		3d print several hours
+		pc code (33343Hg674T)
+		suicidal movements ...lrx3 
+		decrypt file 334h6yTl2 
